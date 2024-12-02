@@ -64,13 +64,14 @@ Digite a data de entrada (formato DD/MM/AAAA) do Carlos: 10/06/2020
 ```
 
 ### **Saída**:
-
+```bash
 Organização completa!
 O próximo a sair de férias é: João
 
 Ordem de saída para férias:
 2º: Carlos
 3º: Maria
+```
 
 ⚙️ Requisitos
 Python 3.6 ou superior.
