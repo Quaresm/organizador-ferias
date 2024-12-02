@@ -52,7 +52,7 @@ O **Organizador de Férias** é uma aplicação simples em Python projetada para
 ## ✨ Exemplo de Uso
 
 ### **Entrada**:
-
+```bash
 Bem-vindo ao Organizador de Férias!
 Quantos funcionários existem? Obs. digite apenas números, no mínimo dois funcionários: 3
 Digite o nome do funcionário 1: João
@@ -61,7 +61,7 @@ Digite o nome do funcionário 2: Maria
 Digite a data de entrada (formato DD/MM/AAAA) do Maria: 15/03/2021
 Digite o nome do funcionário 3: Carlos
 Digite a data de entrada (formato DD/MM/AAAA) do Carlos: 10/06/2020
-
+```
 
 ### **Saída**:
 
