@@ -72,23 +72,3 @@ Ordem de saída para férias:
 2º: Carlos
 3º: Maria
 ```
-
-⚙️ Requisitos
-Python 3.6 ou superior.
-Biblioteca padrão datetime (já incluída no Python).
-
-.
-🛠️ Como Executar?
-Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/organizador-ferias.git
-```
-Acesse a pasta do projeto:
-```bash
-cd organizador-ferias
-```
-
-Execute o programa:
-```bash
-python main.py
-```
